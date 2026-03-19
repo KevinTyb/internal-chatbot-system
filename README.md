@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a **simple, rule-based internal chatbot**.
+This project is a **rule-based internal chatbot**.
 
 The purpose of this utility is to demonstrate:
 
@@ -11,14 +11,14 @@ The purpose of this utility is to demonstrate:
 - sensible handling of unknown or ambiguous input
 - how the solution could be extended in the future using an AI API
 
-The chatbot is intentionally **non-AI** and deterministic. This mirrors how a real financial-services organisation might start with simple automation before introducing AI-based enhancements.
+The chatbot is intentionally **non-AI** and deterministic. This mirrors how a real financial-services organisation might start with automation before introducing AI-based enhancements.
 
 ---
 
 ## What the Chatbot Does
 
 - Accepts a user question via the command line
-- Matches the question to a predefined intent using simple rules (keyword matching)
+- Matches the question to a predefined intent using rules (keyword matching)
 - Returns an appropriate predefined response
 - Handles unknown queries gracefully
 
