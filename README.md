@@ -1,4 +1,4 @@
-# Simple Rule-Based Chatbot
+# Rule-Based Chatbot
 
 ## Overview
 
