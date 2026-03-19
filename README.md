@@ -1,8 +1,8 @@
-# Rule-Based Chatbot
+# Internal Chatbot System
 
 ## Overview
 
-This project is a **rule-based internal chatbot**.
+This project is an **internal chatbot system**.
 
 The purpose of this utility is to demonstrate:
 
